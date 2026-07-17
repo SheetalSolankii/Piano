@@ -5,7 +5,7 @@ A responsive and interactive **Virtual Piano** built using **HTML, CSS, and Java
 ## 📸 Final Outcome
 
 ```
-![2](https://github.com/SheetalSolankii/Piano/blob/main/piano.png)
+![Piano Image](piano.png)
 ```
 
 ---
