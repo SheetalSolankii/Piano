@@ -5,7 +5,7 @@ A responsive and interactive **Virtual Piano** built using **HTML, CSS, and Java
 ## 📸 Final Outcome
 
 ```
-https://github.com/SheetalSolankii/Piano/blob/main/piano.png
+![image alt](https://github.com/SheetalSolankii/Piano/blob/main/piano.png)
 ```
 
 ---
@@ -63,7 +63,8 @@ Playable-Piano/
 ### Clone the repository
 
 ```bash
-git clone https://sheetalsolankii.github.io/Piano/
+git clone https://github.com/sheetalsolankii/Piano.git
+cd Piano
 ```
 
 ### Open the project
