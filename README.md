@@ -2,12 +2,10 @@
 
 A responsive and interactive **Virtual Piano** built using **HTML, CSS, and JavaScript**. Users can play piano notes by either clicking the piano keys or pressing the corresponding keys on their keyboard.
 
-## 📸 Preview
+## 📸 Final Outcome
 
-> Add a screenshot or GIF here
-
-```text
-piano.png
+```
+https://github.com/SheetalSolankii/Piano/blob/main/piano.png
 ```
 
 ---
@@ -93,18 +91,6 @@ The piano automatically adjusts its layout for:
 - Active keys are highlighted with a smooth animation.
 - Volume can be adjusted using the slider.
 - Keyboard labels can be hidden or shown using the toggle switch.
-
----
-
-## 📸 Screenshots
-
-### Desktop
-
-> Add your screenshot here
-
-### Mobile
-
-> Add your mobile screenshot here
 
 ---
 
